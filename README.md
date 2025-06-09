@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to contribute on **frontend project**
 
-- 👨‍💻 Most of my projects are available at [https://shubham-404.github.io/Portfolio](https://shubham-404.github.io/Portfolio)
+- 👨‍💻 Most of my projects are available at [My Portfolio](https://shubham-404.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [what I am learning how I am learning](what I am learning how I am learning)
 
