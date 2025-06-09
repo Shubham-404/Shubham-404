@@ -1,25 +1,27 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate frontend devHey, I'm Shubham. Developing reliable and secure servers along with user-friendly UI is my goal. Solving real-world problems, and constantly learning new techs. Currently working on building backend servers exploring machine learning. Always up for a challenge and excited to create impactful solutions. eloper from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-404" alt="shubham-404" /></a> </p>
+<p align="center" gap="5px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-404" alt="shubham-404" /></a> </p>
 
 - 🔭 I’m currently working on **Backend skills and ML integration**
 
-- 🌱 I’m currently learning **Caching from Sheryians Coding School**
+- 🏛 Currently pursuing **Bachelor of Engineering** at **The National Institute of Engineering, Mysuru**
 
-- 👯 I’m looking to contribute on **frontend project**
+- 🌱 Learning **Caching, Web Sockets, Web RTC, etc.,** from **Sheryians Coding School**
+
+- 👯 I’m looking to contribute on **Frontend** and **Full Stack Projects** 
 
 - 👨‍💻 Most of my projects are available at [My Portfolio](https://shubham-404.github.io/Portfolio/)
 
-- 📝 I regularly write articles on what I am learning how I am learning.
+- 📝 I regularly write articles on what I am learning how I am learning on platforms like Reddit and Medium.
 
-- 💬 Ask me about **react, node, mongodb, gsap, firebase, etc**
+- 💬 Ask me about **React, NodeJS, MongoDB, GSAP, Firebase, Firestore, Project Deployment, etc.**
 
-- 📫 How to reach me **you know github right?**
+- 📫 How to reach me? *You know GitHub, right?**
 
 - 📄 Know about my experiences on reddit@mrx-404 and medium@shubham-404
 
-- ⚡ Fun fact **you might think you're doing great, but know the truth!**
+- ⚡ Fun fact **I am studing Computer Science, doesn't mean I can repair my PC. I mean I can, but not because I am studing Computer Science!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
