@@ -11,13 +11,13 @@
 
 - 👨‍💻 Most of my projects are available at [My Portfolio](https://shubham-404.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [what I am learning how I am learning](what I am learning how I am learning)
+- 📝 I regularly write articles on what I am learning how I am learning.
 
 - 💬 Ask me about **react, node, mongodb, gsap, firebase, etc**
 
 - 📫 How to reach me **you know github right?**
 
-- 📄 Know about my experiences [on reddit@mrx-404 and medium@shubham-404](on reddit@mrx-404 and medium@shubham-404)
+- 📄 Know about my experiences on reddit@mrx-404 and medium@shubham-404
 
 - ⚡ Fun fact **you might think you're doing great, but know the truth!**
 
