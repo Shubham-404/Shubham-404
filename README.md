@@ -3,15 +3,14 @@
 🔧 Currently sharpening my Backend skills and diving into ML integrations for real-world projects.<br>
 🎓 Pursuing B.E. in Computer Science at The National Institute of Engineering, Mysuru.<br>
 🚀 Actively learning about Caching, WebSockets, WebRTC, and more from Sheryians Coding School.<br>
-🧩 Love building structured full-stack applications with a clean codebase and role-based architecture.<br>
 🤝 Always up for collaborating on Frontend or Full Stack projects — especially ones that involve creative UI, real-time functionality, or cool data flows.<br>
 🛠️ Tech Stack I enjoy working with: React, Node.js, MongoDB, Firebase, GSAP, Tailwind, and sometimes EJS + Flask for template-driven systems.<br>
-🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br>
 📬 Want to reach out? You’re already on GitHub, aren’t you? Just scroll up or drop a message on any of my socials 😉<br><br>
 📄 Check out my [Portfolio Website](https://shubham-404.github.io/Portfolio/) to see what I've been building lately.<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Socials:  
+🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubham_404___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-404-) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shubham-404) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mrx-404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubh.shubhamkrsingh@gmail.com) 
 
 # 💻 Tech Stack:
