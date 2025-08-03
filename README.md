@@ -1,4 +1,4 @@
-# 💫 You have arrived on the right place!  
+# 💫 You have arrived at the right place!  
 ## Hey there! I'm Shubham 👋<br>
 🔧 Currently sharpening my Backend skills and diving into ML integrations for real-world projects.<br>
 🎓 Pursuing B.E. in Computer Science at The National Institute of Engineering, Mysuru.<br>
