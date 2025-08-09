@@ -1,5 +1,5 @@
-<p align="center" justify="center">
 # 💫 You have arrived at the right place!  
+<p align="center" justify="center">
 <img src="https://github.com/user-attachments/assets/38b619e9-213c-4992-9d82-718ef5c23e27" width="70" height="70" />
 </p>
 ---
