@@ -8,7 +8,9 @@
 📬 Want to reach out? You’re already on GitHub, aren’t you? Just scroll up or drop a message on any of my socials 😉<br><br>
 📄 Check out my [Portfolio Website](https://shubham-404.github.io/Portfolio/) to see what I've been building lately.<br><br>
 
-<img src="https://github.com/user-attachments/assets/38b619e9-213c-4992-9d82-718ef5c23e27" width="200" height="200" align="center" />
+<p align="center">
+<img src="https://github.com/user-attachments/assets/38b619e9-213c-4992-9d82-718ef5c23e27" width="200" height="200" />
+</p>
 
 ## 🌐 Socials:  
 🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br>
