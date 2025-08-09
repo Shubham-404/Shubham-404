@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center" justify="center">
 # 💫 You have arrived at the right place!  
-<img src="https://github.com/user-attachments/assets/38b619e9-213c-4992-9d82-718ef5c23e27" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/38b619e9-213c-4992-9d82-718ef5c23e27" width="70" height="70" />
 </p>
 ---
 ## Hey there! I'm Shubham 👋<br>
