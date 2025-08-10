@@ -12,7 +12,7 @@
 🎓 Pursuing B.E. in Computer Science in Mysore, India.<br>
 🤝 Feel free for collaborating on projects — especially ones that involve creative UI, real-time functionality, or cool data flows.<br>
 
-## 🌐 Socials:  
+## 🌐 Socials: 
 <p align="center">
   <a href="https://instagram.com/shubham_404___" alt="Instagram" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
