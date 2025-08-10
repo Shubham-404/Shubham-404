@@ -17,10 +17,15 @@
 🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br>
 
 <p align="center">
-  <a href="https://instagram.com/shubham_404___" alt="Users" title="Repo users">
+  <a href="https://instagram.com/shubham_404___" alt="Instagram" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/shubham-404-" alt="LinkedIn" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)"/></a>
+  <a href="https://medium.com/@shubham-404" alt="Medium" title="Medium">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/mrx-404/" alt="Reddit" title="Reddit">
+    <img src="https://img.shields.io/badge/Reddit-12100E?logo=reddit&logoColor=white"/></a>
+  
 </p>
 
 # 💻 Most Loved Languages:
