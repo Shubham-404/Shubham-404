@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=You+have+arrived+at+the+right+place!;Hello,+I'm+Shubham!;Open+Source+contribution_<3&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Your have arrived at the right place.">
+  <img src="https://readme-typing-svg.demolab.com/?lines=You're+right+on+time!;Hello,+I'm+Shubham.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Your have arrived at the right place.">
 </p>
 
 ## Hey there! I'm Shubham 👋<br>
