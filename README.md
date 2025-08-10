@@ -5,15 +5,15 @@
 
 ## Hey there! I'm Shubham 👋<br>
 🔧 Currently sharpening my Backend skills and diving into ML integrations for real-world projects.<br>
-🎓 Pursuing B.E. in Computer Science at The National Institute of Engineering, Mysuru.<br>
-🤝 Always up for collaborating on Frontend or Full Stack projects — especially ones that involve creative UI, real-time functionality, or cool data flows.<br>
+🎓 Pursuing B.E. in Computer Science in Mysore, India.<br>
+🤝 Feel free for collaborating on Frontend or Full Stack projects — especially ones that involve creative UI, real-time functionality, or cool data flows.<br>
 📬 Want to reach out? You’re already on GitHub, aren’t you? Just scroll up or drop a message on any of my socials 😉<br>
 
 # 🌐 Socials:  
-🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br><br>
-<p align="center">
+🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubham_404___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-404-) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shubham-404) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mrx-404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubh.shubhamkrsingh@gmail.com) 
-</p>
+
 
 # 💻 Most Loved Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -27,8 +27,5 @@
 
 ### ✍️ Fun Fact
 Yes, I study Computer Science. No, that doesn't mean I fix every broken PC. Okay maybe I can… but that’s not the point! 😅<br><br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shubham-404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
