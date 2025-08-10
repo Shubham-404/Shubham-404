@@ -2,7 +2,7 @@
 <p align="center" justify="center">
   <span>
     <p>
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+You+have+arrived+at+the+right+place!...)](https://git.io/typing-svg)
+      [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+You+have+arrived+at+the+right+place!...;)](https://git.io/typing-svg)
     <p>
   <span/>
     <img src="https://github.com/user-attachments/assets/38b619e9-213c-4992-9d82-718ef5c23e27" width="70" height="70" />
