@@ -14,8 +14,6 @@
 📬 Want to reach out? You’re already on GitHub, aren’t you? Just scroll up or drop a message on any of my socials 😉<br>
 
 # 🌐 Socials:  
-🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br>
-
 <p align="center">
   <a href="https://instagram.com/shubham_404___" alt="Instagram" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
@@ -24,9 +22,10 @@
   <a href="https://medium.com/@shubham-404" alt="Medium" title="Medium">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/mrx-404/" alt="Reddit" title="Reddit">
-    <img src="https://img.shields.io/badge/Reddit-12100E?logo=reddit&logoColor=white"/></a>
-  
+    <img src="https://img.shields.io/badge/Reddit-%23F05033.svg?logo=reddit&logoColor=white"/></a>  
 </p>
+
+🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br>
 
 # 💻 Most Loved Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
