@@ -34,6 +34,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## ✍️ Fun Fact
-'Yes, I study Computer Science. No, that doesn't mean I fix every broken PC. Okay maybe I can… but that’s not the point!' 😅<br><br>
+I love doing a lot of stuff, but I hate that I do a lot of stuff.<br><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
