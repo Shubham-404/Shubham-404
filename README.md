@@ -1,6 +1,17 @@
 
-<p>
-  #A GIF will come here.
+<p align="center">
+  <h3 align="center">💫 You have arrived at the right place!</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
+    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ## Hey there! I'm Shubham 👋<br>
@@ -12,7 +23,12 @@
 # 🌐 Socials:  
 🧠 I often share what I'm learning (and how I’m learning) through bite-sized posts and articles on Medium and discussions on Reddit.<br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubham_404___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-404-) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shubham-404) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mrx-404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubh.shubhamkrsingh@gmail.com) 
+<p align="center">
+  <a href="https://instagram.com/shubham_404___" alt="Users" title="Repo users">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
 
 # 💻 Most Loved Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -21,7 +37,7 @@
 # ⚓ Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### ✍️ Fun Fact
-Yes, I study Computer Science. No, that doesn't mean I fix every broken PC. Okay maybe I can… but that’s not the point! 😅<br><br>
+# ✍️ Fun Fact
+'Yes, I study Computer Science. No, that doesn't mean I fix every broken PC. Okay maybe I can… but that’s not the point!' 😅<br><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
