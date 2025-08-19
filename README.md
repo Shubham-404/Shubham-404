@@ -1,6 +1,8 @@
 
 <p align="center">
-  <h3 align="center">A GIF will come here.</h3>
+  
+  <h3 align="center"><img width="500" height="270" alt="Just Chilling Out." src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5raHQ4cjl1Yzl5ZGExNTJvanpudWx1OGxlcnJzN3NoNDd5Y2Y4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" />
+</h3>
 </p>
 
 <p align="center">
