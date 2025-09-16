@@ -35,7 +35,7 @@
 ## ⚓ Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Badges so far
+## 🥇 Badges so far
 [![Badges fe5ched from holopin](https://holopin.me/shubham404)](https://holopin.io/@shubham404)
 
 ## ✍️ Fun Fact
