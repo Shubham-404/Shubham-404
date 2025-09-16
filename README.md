@@ -1,12 +1,10 @@
-
 <p align="center">
-  
-  <h3 align="center"><img width="500" height="270" alt="Just Chilling Out." src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5raHQ4cjl1Yzl5ZGExNTJvanpudWx1OGxlcnJzN3NoNDd5Y2Y4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" />
-</h3>
+  <img src="https://readme-typing-svg.demolab.com/?lines=You're+right+on+time!;Hello,+I'm+Shubham.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Your have arrived at the right place.">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=You're+right+on+time!;Hello,+I'm+Shubham.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Your have arrived at the right place.">
+  <h3 align="center"><img alt="Just Chilling Out." src="https://github.com/user-attachments/assets/e7335eef-81ca-4586-a357-48f076c913b3" />
+</h3>
 </p>
 
 ## Hey there! I'm Shubham 👋<br>
