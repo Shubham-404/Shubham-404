@@ -36,7 +36,7 @@
 ## ✍️ Fun Fact
 I love doing a lot of stuff, but I hate that I love doing a lot of stuff.<br><br>
 
-## 🥇 Badges so far
+## 🥇 Holopin badges
 [![Badges fe5ched from holopin](https://holopin.me/shubham404)](https://holopin.io/@shubham404)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
