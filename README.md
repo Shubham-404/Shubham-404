@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=You're+right+on+time!;Hello,+I'm+Shubham.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Your have arrived at the right place.">
+  <img src="https://readme-typing-svg.demolab.com/?lines=NextJS+|+Node.js+|+Python;Developer.+|+Visit+shubham.app&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Shubham-404">
 </p>
 
 <p align="center">
